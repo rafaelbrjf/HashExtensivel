@@ -1,0 +1,37 @@
+# depslib dependency file v1.0
+1613620691 source:c:\users\dutra\desktop\hashextensivel\balde.cpp
+	<iostream>
+	"Balde.h"
+
+1613620664 c:\users\dutra\desktop\hashextensivel\balde.h
+	<string>
+	<vector>
+
+1613620575 source:c:\users\dutra\desktop\hashextensivel\diretorio.cpp
+	<bitset>
+	<cmath>
+	<iostream>
+	<utility>
+	"Diretorio.h"
+
+1613619609 c:\users\dutra\desktop\hashextensivel\diretorio.h
+	<vector>
+	<string>
+	"Balde.h"
+
+1613620509 source:c:\users\dutra\desktop\hashextensivel\main.cpp
+	<iostream>
+	<random>
+	"Diretorio.h"
+
+1613608007 source:c:\users\dutra\desktop\hashextensivel\operacoes.cpp
+	<bitset>
+	<cmath>
+	<iostream>
+	<utility>
+	"Operacoes.h"
+
+1613607859 c:\users\dutra\desktop\hashextensivel\operacoes.h
+	<vector>
+	<string>
+
